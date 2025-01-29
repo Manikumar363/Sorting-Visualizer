@@ -7,7 +7,7 @@
 - Merge Sort
 
 Hosted Link -
-https://sorting-visualizer-mini-project.netlify.app/
+
 
 
 ### This is built using HTML, CSS, JavaScript <br/>
